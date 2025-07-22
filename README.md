@@ -38,16 +38,18 @@ note: December 2023 growth is slightly inaccurate due to incomplete data for Nov
 - The 20% cutoff of top sellers should be emphasised when considering any alterations of prices as they driving the highest customer engagement. These products produce the highest losses, amounting to $-3,719,297.66.
 - 228 products contribute to the top 20% of overall sales by volume.
 
-![distibution of sales](Images/Distribution_of_Sales.png)
+![distibution of sales](Images/product_profitability.png)
 
 - The average product was sold at a loss of -$2370.66, the median loss was -$2228.28 out of all 1997 sold products.
 - The highest loss was on the laptop sleeve, amounting to -$60,938.32. This is likely due to the high goods value of $611.11, where the supplier is selling to the business at obscenely high costs.
 - The highest profit was on the rice cooker , amounting to $55,705.99.
 - There was no consistent time or category amongst the extremities indicating that a thorough and product specific reconfiguration of pricing is necessary.
 
+![product profitability](Images/Distribution_of_Sales.png)
+
 ### Performance by Supplier
 - Mega Suppliers had the lowest average return on sale at -$300.79 per item. A total of 957 items from Mega Suppliers were sold at a loss amounting to -$287,856.44
 - Notably, all 100 supplier had items that sold at a loss. On a positive note, each supplier also had items that sold at a profit.
-- The highest profit was by Premier Logistics Inc. A total of 989 proitable sales, generating $229,196.98 in profit. Accounting for the unprofitable transactions, Premier Logistics Inc was still the highest overall profitable supplier with a total of $86,217.08 out of 1,978 sales.
+- The highest profit was by Premier Logistics Inc. Their products made a total of 989 proitable sales, generating $229,196.98 in profit. Accounting for the unprofitable transactions, Premier Logistics Inc was still the highest overall profitable supplier with a total of $86,217.08 out of 1,978 sales.
 
 
