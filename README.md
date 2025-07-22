@@ -38,18 +38,38 @@ note: December 2023 growth is slightly inaccurate due to incomplete data for Nov
 - The 20% cutoff of top sellers should be emphasised when considering any alterations of prices as they driving the highest customer engagement. These products produce the highest losses, amounting to $-3,719,297.66.
 - 228 products contribute to the top 20% of overall sales by volume.
 
-![distibution of sales](Images/product_profitability.png)
+![product profitability](Images/Distribution_of_Sales.png)
 
-- The average product was sold at a loss of -$2370.66, the median loss was -$2228.28 out of all 1997 sold products.
+- The average product was sold at a loss of -$2,370.66, the median loss was -$2,228.28 out of all 1,997 sold products.
 - The highest loss was on the laptop sleeve, amounting to -$60,938.32. This is likely due to the high goods value of $611.11, where the supplier is selling to the business at obscenely high costs.
 - The highest profit was on the rice cooker , amounting to $55,705.99.
 - There was no consistent time or category amongst the extremities indicating that a thorough and product specific reconfiguration of pricing is necessary.
 
-![product profitability](Images/Distribution_of_Sales.png)
+![distibution of sales](Images/product_profitability.png)
 
 ### Performance by Supplier
 - Mega Suppliers had the lowest average return on sale at -$300.79 per item. A total of 957 items from Mega Suppliers were sold at a loss amounting to -$287,856.44
 - Notably, all 100 supplier had items that sold at a loss. On a positive note, each supplier also had items that sold at a profit.
 - The highest profit was by Premier Logistics Inc. Their products made a total of 989 proitable sales, generating $229,196.98 in profit. Accounting for the unprofitable transactions, Premier Logistics Inc was still the highest overall profitable supplier with a total of $86,217.08 out of 1,978 sales.
 
+## Recommendations and Further Action
+### Consolidating Prices Structure
+- Due to the inconsistency and heavy losses, we should remove legacy pricing that are caused by outdated promotions and coupon codes.
+- Implement a centralised pricing system to ensure that all sales channels reflect current and consistent pricing.
+- Create hard price floors per product to avoid selling below cost, with automated alerts when prices fall below this threshold. The threshold can be initially set to 95% of the items value and slowly increased back to 100% to ease customer adaptation. This phased approach ensures smoother alignment with profitability goals without immediate customer churn. Specifics can be discussed with the products team and business managers to handle satisfactory negotiations with suppliers for future orders.
+### Prioritise Pricing Review For High-Volume Products
+- Conduct a product-level margin audit for the top 20% of products by volume (228 products) since these account for the highest engagement and the greatest losses ($-3.7M).
+- Introduce tiered discounting only for these high-volume products, and restrict discounts on low-margin goods.
+- Consider dynamic pricing for high-performing SKUs based on demand elasticity.
+### Restructure Supplier Agreements
+- Re-evaluate supplier contracts, particularly those with recurring losses—e.g., Mega Suppliers with average per-item losses of $300+.
+- Negotiate better wholesale pricing or implement performance-based incentive clauses that tie supplier revenue to end-consumer profit margins. usiness managers should leverage the company’s consistent sales volume and low seasonality as bargaining power. By demonstrating reliable demand even during quieter months, the business can secure more favourable pricing or rebate agreements that align supplier incentives with profitability goals.
+### Product Rationalisation
+- Discontinue or re-price products that consistently generate losses and fall below the median sales volume threshold (35 units per year).
+- Focus inventory and marketing efforts on high-performing products in each category to reduce warehousing and logistics costs.
+### Seasonal Campaign Optimisation
+- While no clear seasonal trend was found, trial targeted campaigns around known e-commerce peaks (e.g., Black Friday, Christmas season) to test elasticity and profitability by product type.
+- Use prior months’ top sellers and profitable products as a guide for promotional focus.
 
+Dataset ERD
+![data erd](Images/Data_ERD.png)
