@@ -21,3 +21,11 @@ The business generated $42,495,704.81 in revenue between October 2023 and Octobe
 note: December 2023 growth is slightly inaccurate due to incomplete data for November 2023
 
 ### Distribution of Sales
+- Sales amongst the four categories: Accessories, Electronics, Furniture and Home & Kitchen stayed consistent throughout the year.
+
+| Category | Revenue | % of Total Revenue |
+| --- | --- | --- |
+| Electronics | $15,247,167.14 | 0.36 |
+| 	Home & Kitchen | $11,182,785.90 | 0.26 |
+| Accessories | $9,833,968.69 | 0.23 |
+| Furniture | $6,231,783.08 | 0.15 |
