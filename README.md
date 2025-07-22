@@ -31,3 +31,6 @@ note: December 2023 growth is slightly inaccurate due to incomplete data for Nov
 | Furniture | $6,231,783.08 | 0.15 |
 
 ![monthly_categorical_sales](Images/monthly_categorical_sales.png)
+
+- The distribution of the volume of each product being sold follows a normal distribution where the median is 45. This shows that the number of sales are being driven by a diverse catalouge of products with only a small number of outliers on either tail. These results can help us derive which products to potentially discontinue.
+- The 20% cutoff of top sellers should be emphasised when considering any alterations of prices as they driving the highest customer engagement. These products produce the highest losses, amounting to $-3,719,297.66.
