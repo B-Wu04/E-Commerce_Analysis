@@ -30,4 +30,4 @@ note: December 2023 growth is slightly inaccurate due to incomplete data for Nov
 | Accessories | $9,833,968.69 | 0.23 |
 | Furniture | $6,231,783.08 | 0.15 |
 
-![monthly_categorical_sales](Images/monthly_categorical_sales_(3).png)
+![monthly_categorical_sales](Images/monthly_categorical_sales.png)
