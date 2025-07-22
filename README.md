@@ -15,5 +15,5 @@ The business generated $42,495,704.81 in revenue between October 2023 and Octobe
 - October generated the largest revenue and loss with a revenue-to-value ratio of 0.86%, a total of $616,860.83 in losses.
 - The revenue growth fluctated between -7% and 10% growth rates, without any obvious signs of seasonality where December sales matching Feburary sales.
 - Each month conistently saw electronics as the highest category of sales and furniture as the lowest.
-
+![Monthly Revenue and Goods Values][https://github.com/B-Wu04/E-Commerce_Analysis/blob/11708462df9eba6853762df53411312f9a1a338d/Monthly_Sales_Revenue_Compared_to%20Goods_Value.png}]
 ### Distribution of Sales
